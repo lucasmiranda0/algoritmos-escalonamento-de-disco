@@ -1,1 +1,1 @@
-# Algoritmos Escalonamento de Disco
+# Algoritmos de Escalonamento de Disco
